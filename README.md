@@ -2,43 +2,45 @@ CMS Opencart and its modification russifitsirovat ocStore - is a handy tool for 
 
 Installation
 
- you can install the entire collection of one module
- or upload each pootdelnosti module, selecting only the necessary
+you can install the entire collection of one module
+or upload each pootdelnosti module, selecting only the necessary
 
- Opencart Native Patch Module Pack
+Opencart Native Patch Module Pack
 
- download module
- load the module into the CMS, see Advanced Setup
- refresh the cache in the "modifiers"
+download module
+load the module into the CMS, see Advanced Setup
+refresh the cache in the "modifiers"
 
 Description of modules
 
-Clear Cart Button (download) - adds a delete button on the basket of goods page.  This will save you time and frustration of your customers online store, as in a standard Opencart'e removal of goods sold at a time through the reload, because of what the removal of a dozen or several dozen products can last for an eternity.  This module solves this problem.  removal of goods button is located immediately after the header <h1> right before the list of goods.
+Clear Cart Button (download)
+adds a delete button on the basket of goods page.  This will save you time and frustration of your customers online store, as in a standard Opencart'e removal of goods sold at a time through the reload, because of what the removal of a dozen or several dozen products can last for an eternity.  This module solves this problem.  removal of goods button is located immediately after the header <h1> right before the list of goods.
 
- Feedback (download) - allows you to add a contact form to any page of the site.
+Feedback (download) - allows you to add a contact form to any page of the site.
 
- Remove Powered By (download) - removes the text "works on ocStore" from the footer.
+Remove Powered By (download) - removes the text "works on ocStore" from the footer.
 
- SEO Breadcrumbs (download) - removes the link from the last paragraph of the breadcrumbs on all pages of the site, and also adds to the bread crumbs the validly mikrorazmetku (SHEMA.ORG).
+SEO Breadcrumbs (download)
+removes the link from the last paragraph of the breadcrumbs on all pages of the site, and also adds to the bread crumbs the validly mikrorazmetku (SHEMA.ORG).
 
- Version
+Version
 
- v.  0.1
+v.  0.1
 
- modules are in development, their planned improvements and additions
+modules are in development, their planned improvements and additions
 
- can meet Bugs
+can meet Bugs
 
- Compatibility
+Compatibility
 
- Opencart v.  3.0.2.0 Given suitable or him OCStore version.
+Opencart v.  3.0.2.0 Given suitable or him OCStore version.
 
- requirements
+requirements
 
- php 5.4+
+php 5.4+
 
- License
+License
 
- The modules are distributed under the MIT license.
+The modules are distributed under the MIT license.
 
  Use bold and health;)

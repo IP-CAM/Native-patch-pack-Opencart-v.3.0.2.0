@@ -25,7 +25,7 @@ adds a delete button on the basket of goods page.
 This will save you time and frustration of your customers online store, as in a standard Opencart'e 
 removal of goods sold at a time through the reload, because of what the removal of a dozen or several 
 dozen products can last for an eternity.  This module solves this problem.  removal of goods button is
-located immediately after the header <h1> right before the list of goods.
+located immediately after the header right before the list of goods.
 
 Feedback (download) - allows you to add a contact form to any page of the site.
 
